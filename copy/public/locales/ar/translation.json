@@ -1,0 +1,15 @@
+{
+  "hello world": "مرحبا بالعالم",
+  "min": "الصغرى",
+  "max": "الكبرى",
+  "cairo": "القاهرة",
+  "clear sky": "سماء صافية",
+  "few clouds": "سحب قليلة",
+  "scattered clouds": "سحب متفرقة",
+  "broken clouds": "سحب متفككة",
+  "shower rain": "زخات مطرية",
+  "rain": "مطر",
+  "thunderstorm": "عاصفة رعدية",
+  "snow": "ثلوج",
+  "mist": "ضباب"
+}
